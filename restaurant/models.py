@@ -4,8 +4,8 @@ from django.db import models
 # Create your models here.
 class Booking(models.Model):
     name = models.CharField(max_length=255, db_index=True)
-    no_of_quests = models.IntegerField()
-    bookingDate = models.DateField()
+    num_guests = models.IntegerField()
+    bookingDate = models.DateTimeField()
 
     def __str__(self): 
         return self.name
