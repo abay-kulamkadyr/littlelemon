@@ -2,6 +2,8 @@
 
 **Little Lemon** is a sample restaurant reservation and menu management system, demonstrating best practices with **Django**, **Django REST Framework**, **Token Authentication**, and **Djoser** for user authentication. This project is part of the **Meta Back-End Developer Certification Program (Coursera)**, showcasing how to build a secure, scalable back-end for a fictional restaurant.
 
+![Alt text describing the image](./assets/main_page1.png)
+![Alt text describing the image](./assets/main_page2.png)
 ---
 
 ## Key Features
