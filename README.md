@@ -1,4 +1,4 @@
-# Little Lemon - A Django REST Framework Project
+# Little Lemon - A Django REST Framework Project (Meta Back-End Developer Certification Capstone Project)
 
 **Little Lemon** is a sample restaurant reservation and menu management system, demonstrating best practices with **Django**, **Django REST Framework**, **Token Authentication**, and **Djoser** for user authentication. This project is part of the **Meta Back-End Developer Certification Program (Coursera)**, showcasing how to build a secure, scalable back-end for a fictional restaurant.
 
